@@ -48,7 +48,7 @@ This dashboard provides a comprehensive overview of sales performance for the se
 ---
 
 ## 📈 Dashboard Preview
-![Sales Dashboard](dashboard.png)
+![Sales Dashboard](Sales Dashboard Image.png)
 
 ---
 
