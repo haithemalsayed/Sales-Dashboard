@@ -48,7 +48,7 @@ This dashboard provides a comprehensive overview of sales performance for the se
 ---
 
 ## 📈 Dashboard Preview
-![Sales Dashboard](Sales Dashboard Image.png)
+![Sales Dashboard](https://github.com/haithemalsayed/Sales-Dashboard/blob/main/Sales%20Dashboard%20Image.png)
 
 ---
 
