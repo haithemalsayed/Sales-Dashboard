@@ -47,11 +47,6 @@ This dashboard provides a comprehensive overview of sales performance for the se
 
 ---
 
-## 📈 Dashboard Preview
-![Sales Dashboard](https://github.com/haithemalsayed/Sales-Dashboard/blob/main/Sales%20Dashboard%20Image.png)
-
----
-
 ## 🛠️ Tools Used
 
 - Microsoft Excel
@@ -150,12 +145,17 @@ Sales-Dashboard/
 - Interactive Reporting
 
 ---
+## 📈 Dashboard Preview
+![Sales Dashboard](https://github.com/haithemalsayed/Sales-Dashboard/blob/main/Sales%20Dashboard%20Image.png)
+
+---
 
 ## 📬 Contact
 
 If you have any questions or suggestions, feel free to connect with me.
 
 **GitHub:** https://github.com/haithemalsayed
+
 
 **LinkedIn:** https://www.linkedin.com/in/haithem-alsayed-b9574b20a/
 
